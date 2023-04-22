@@ -7,4 +7,4 @@ Open-source API and free-to-download clients for universities and organizations 
 ## Links (Note: These are in progress.)
 - [Organization LinkedIn](https://www.linkedin.com/company/luminary-maps/)
 - [API](https://accessnav-api-git-ctine987.apps.cloudapps.unc.edu/app/)
-- [API Documentation](https://polaris-maps.github.io/polaris-api-docs/)
+- [API Documentation](https://polaris-maps.github.io/luminary-api-docs/)
